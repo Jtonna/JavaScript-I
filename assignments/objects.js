@@ -18,7 +18,23 @@ const example = {
 }
 
 // Write your intern objects here:
-
+const Atk = "Apache Attack Helicoper";
+const sexM = "Male";
+const sexF = "Female";
+var emails = [
+  "mmelloy0@psu.edu",
+  "kdiben1@tinypic.com",
+  "kmummery2@wikimedia.org",
+  "gmartinson3@illinois.edu",
+  "adaine5@samsung.com",
+  "jtonna@bphsf.org"
+]
+var names = [
+  "Mitzi",
+  "Kennan",
+  "Kevan",
+  
+]
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
