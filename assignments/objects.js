@@ -89,6 +89,7 @@ console.log("It appears that", internObj5.name, "identifies as a", internObj5.ge
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 // console.log(kennan.speak());
+console.log(internObj1.speak("Hello, my name is Kennan!"));
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 //console.log(antonietta.multiplyNums(3,4));
